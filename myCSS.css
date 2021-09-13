@@ -1,0 +1,21 @@
+nav{
+    background-color: maroon;
+}
+
+.textbox{
+    text-align:start;
+}
+
+nav .nav-link {
+    color: #ffbb00;
+}
+
+.lightmode{
+    background-color: white;
+    color: black;
+}
+
+.darkmode{
+    background-color: black;
+    color: white;
+}
